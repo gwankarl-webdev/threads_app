@@ -1,0 +1,1 @@
+Why does The App behave the way it does when you visit the default page?: ->Beacuse i wrap the entire application in a Clerk Provider. which authenticates all the routes unless told to inore in the auth middleware section
